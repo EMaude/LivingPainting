@@ -1,0 +1,15 @@
+﻿  main.cpp
+  ofApp.cpp
+e:\maude\documents\github\livingpainting\livingpainting\src\ofapp.cpp(8): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  e:\maude\documents\of_v0.10.0_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+     Creating library bin\LivingPainting_debug.lib and object bin\LivingPainting_debug.exp
+  LivingPainting.vcxproj -> E:\maude\Documents\Github\LivingPainting\LivingPainting\bin\LivingPainting_debug.exe
+  
+  	                   2	E:\maude\Documents\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	    New File  		 1266176	E:\maude\Documents\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\fmodex.dll
+  	    New File  		 1312768	E:\maude\Documents\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\fmodexL.dll
+  
+  	                   1	E:\maude\Documents\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	E:\maude\Documents\Github\LivingPainting\LivingPainting\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	E:\maude\Documents\Github\LivingPainting\LivingPainting\bin\fmodexL.dll
+  	    New File  		 5647872	E:\maude\Documents\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\FreeImage.dll
